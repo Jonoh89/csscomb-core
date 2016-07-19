@@ -3,6 +3,7 @@
   "version": "3.0.2",
   "description": "Framework for writing postprocessors",
   "dependencies": {
+    "babel-polyfill": "^6.9.1",
     "gonzales-pe": "^3.3.6",
     "minimatch": "3.0.2",
     "vow": "0.4.4",

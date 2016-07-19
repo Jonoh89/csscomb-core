@@ -1,5 +1,5 @@
 if (!global._babelPolyfill) {
-  require('babel/polyfill');
+  require('babel-polyfill');
 }
 let fs = require('fs');
 let gonzales = require('gonzales-pe');
